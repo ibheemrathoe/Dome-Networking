@@ -32,8 +32,6 @@ Dome Networking draws conceptual inspiration from:
 
 Iron Dome Defense System (Israel)
 
-Mossad’s Sayanim Network
-
 Ashoka’s Dharma Emissaries
 
 CIA “Cutout” Methodology
